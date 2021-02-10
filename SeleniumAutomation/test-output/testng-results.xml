@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-10T03:48:37 BRT" name="Default suite" finished-at="2021-02-10T03:49:05 BRT" duration-ms="27173">
+    <groups>
+    </groups>
+    <test started-at="2021-02-10T03:48:37 BRT" name="Default test" finished-at="2021-02-10T03:49:05 BRT" duration-ms="27173">
+      <class name="seleniumautomation.com.stepDefinitions.CreateAccountFormTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:seleniumautomation.com.stepDefinitions.CreateAccountFormTest@68e965f5]" started-at="2021-02-10T03:48:37 BRT" name="setup" finished-at="2021-02-10T03:48:49 BRT" duration-ms="12073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="authenticationPage()[pri:1, instance:seleniumautomation.com.stepDefinitions.CreateAccountFormTest@68e965f5]" started-at="2021-02-10T03:48:50 BRT" name="authenticationPage" finished-at="2021-02-10T03:48:53 BRT" duration-ms="3058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- authenticationPage -->
+        <test-method signature="createAccountSuccessfully()[pri:2, instance:seleniumautomation.com.stepDefinitions.CreateAccountFormTest@68e965f5]" started-at="2021-02-10T03:48:53 BRT" name="createAccountSuccessfully" finished-at="2021-02-10T03:49:00 BRT" duration-ms="7643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccountSuccessfully -->
+        <test-method is-config="true" signature="closeAll()[pri:0, instance:seleniumautomation.com.stepDefinitions.CreateAccountFormTest@68e965f5]" started-at="2021-02-10T03:49:00 BRT" name="closeAll" finished-at="2021-02-10T03:49:05 BRT" duration-ms="4354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAll -->
+      </class> <!-- seleniumautomation.com.stepDefinitions.CreateAccountFormTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
